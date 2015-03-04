@@ -29,6 +29,7 @@ USB audio over AOA2 is supported on all Android devices with OS version 4.1 and 
     git clone https://github.com/SquidIndustries/AndroidAlsaDock.git
     cd AndroidAlsaDock
     ./install.sh
+    reboot
     
 
 ## Reference
