@@ -30,7 +30,9 @@ USB audio over AOA2 is supported on all Android devices with OS version 4.1 and 
     cd AndroidAlsaDock
     ./install.sh
     reboot
-    
+Wait for device to fully reboot
+Plug in android device, wait a moment and then press play.
+If it doesnt work, you might need to edit dockLauncher.sh to point at your alsa devices
 
 ## Reference
 * [Jacek Fedoryński USB Audio Dock](http://blog.jfedor.org/2013/01/usb-audio-dock-for-android.html) (same thing but with pulseaudio)
